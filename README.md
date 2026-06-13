@@ -133,11 +133,3 @@ python dashboard.py
 * Deploy dashboard using Streamlit or Dash.
 * Connect dashboard to a live database.
 * Include sales forecasting using machine learning.
-
-## Author
-
-Dhanada Panda
-
-Computer Science and Engineering
-
-Silicon University
